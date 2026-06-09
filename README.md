@@ -1,5 +1,7 @@
 # Pet&Style 🐾
 
+![Preview do Projeto](assets/pet&style.png)
+
 Loja virtual fictícia desenvolvida como projeto acadêmico com o objetivo de praticar a criação de interfaces responsivas para e-commerce utilizando HTML, CSS e frameworks de estilização.
 
 ## 📋 Sobre o Projeto
